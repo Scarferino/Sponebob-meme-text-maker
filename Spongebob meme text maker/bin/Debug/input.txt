@@ -1,0 +1,1 @@
+    std::cout << "You can find the transformed text in the output.txt file."

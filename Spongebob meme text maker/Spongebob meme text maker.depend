@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1561491439 source:d:\programming\codeblocks\spongebob meme text maker\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1561491982 source:d:\programming\codeblocks\spongebob meme text maker\icon.rc
+
